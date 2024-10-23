@@ -74,10 +74,10 @@ Visualization Manager:
           chassis:
             caster_wheel:
               {}
-          left_wheel:
-            {}
-          right_wheel:
-            {}
+            left_wheel:
+              {}
+            right_wheel:
+              {}
       Update Interval: 0
       Value: true
     - Alpha: 1
